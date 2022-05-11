@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dmojones
+- 👋 Hi, I’m @destiny jones
 - 👀 I’m interested in making all natural skincare products
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on any projects that will help me grow as a developer
